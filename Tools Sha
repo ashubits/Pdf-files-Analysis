@@ -9,7 +9,9 @@ SHA256(pdf-parser_V0_7_4.zip)= fc318841952190d51eb70dafb0666d7d19652c8839829cc0c
 
 SHA256(pdfid_v0_2_7.zip)= fe2b59fe458ecbc1f91a40095fb1536e036bdd4b7b480907ac4e387d9adb6e60
 
-
+SHA256(example1.pdf)= ac8100c76e25022b1ae3ed528cf601477a2dd659278e7dcdf2c207f47dde3c02
+SHA256(example2.pdf)= 73aa4a2d71cd1f8f1bbe2bf4a7fca64caed7154610e661b1c0ad015d81a6824d
+SHA256(example3.pdf)= 30042e991ddf5fab248be9c18ec2f63a7c4bd159716831d6be748aabcb0ca85e
 
 
 PDF
