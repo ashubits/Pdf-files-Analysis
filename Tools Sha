@@ -1,0 +1,85 @@
+
+SHA256(5e66c20c223b8906a004d5cb856118261f5bcd26db8c82c51eeeefaebfab2bad.rar)= 5e66c20c223b8906a004d5cb856118261f5bcd26db8c82c51eeeefaebfab2bad
+//Sample from malware bazar
+
+SHA256(5e66c20c223b8906a004d5cb856118261f5bcd26db8c82c51eeeefaebfab2bad.zip)= f3281988a7e32bd81d83c51a05d4661dc40f9d0e81910b065c172130475a0976
+
+//tools
+SHA256(pdf-parser_V0_7_4.zip)= fc318841952190d51eb70dafb0666d7d19652c8839829cc0c3871bbf7e155b6a
+
+SHA256(pdfid_v0_2_7.zip)= fe2b59fe458ecbc1f91a40095fb1536e036bdd4b7b480907ac4e387d9adb6e60
+
+
+
+
+PDF
+Encapsulate various documents objects elements
+Support rich and intractive elements like form to get inputs graphs tables
+it also have capabity in the form of Action scripts (can also macros) it support Java scripts VB Scripts & AppleScripts too
+
+
+<header contains version number>
+<name> <Version number> <object>    << >> (represents dictionary) inside thess all elements will be contained endobj
+
+Xref 
+0 (start of the objects) 4 (nuber of objects), which includes root object also
+<ofsets is starting> < generation number> f free object n stand for object is in use
+
+Startxref
+<start pointer> 
+%%EOF (end of file )
+
+
+
+%PDF-1.7
+
+1 0 obj
+  << /Type /Catalog
+     /Pages 2 0 R
+  >>
+endobj
+
+2 0 obj
+  << /Type /Pages
+     /Kids [3 0 R]
+     /Count 1
+  >>
+endobj
+
+3 0 obj
+  << /Type /Page
+     /Parent 2 0 R
+     /MediaBox [0 0 600 400]
+     /Resources << >>
+  >>
+endobj
+
+xref
+0 4
+00000000000 65535 f 
+00000000010 00000 n 
+00000000069 00000 n 
+00000000141 00000 n 
+trailer
+  << /Root 1 0 R
+     /Size 4
+  >>
+startxref
+249
+%%EOF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
